@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.footer {
+    margin: 0px 0px 16px 16px;
+    /* [disabled]nav-left: auto; */
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    color: #B2B0AF;
+}
