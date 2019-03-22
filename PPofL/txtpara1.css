@@ -26,8 +26,9 @@
 	align-items: flex-start;
 }
 .header1 {
-	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
-	font-size: 16px;
-	font-style: italic;
-	color: #660066;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    color: #660066;
+    text-align: left;
 }
